@@ -7,7 +7,7 @@ setuptools.setup(
   name = "codeExec", 
   version = "1.0.0",
   author = "nonamed",
-  licesne = "MIT",
+  license = "MIT",
   description = "A package that executes code without bugs.",
   long_description = description,
   long_description_content_type = "text/markdown",
